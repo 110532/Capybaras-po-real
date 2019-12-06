@@ -25,6 +25,7 @@ body {
 .page {
 	max-width: 100%;
 	margin-right: 0px;
+	padding-bottom: 50px;
 	background-color: white;
 }
 
@@ -120,3 +121,5 @@ h2 {
       .page-nav ul li a:visited {
         color: #6f717d;
       }
+
+
