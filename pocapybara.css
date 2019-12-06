@@ -3,7 +3,9 @@ html, body {
   padding: 0;
   margin: 0;
  }
-
+/*
+<basefont= sans-serif> 
+*/
 body {
 	font-family: "Open Sans", sans-serif; 
 	font-size: 14px;
@@ -11,6 +13,16 @@ body {
 
 .page {
   background-color: white;
+}
+
+hr {
+	display: block;
+	border: 2px solid grey;
+
+	margin-top: -3em;
+	margin-bottom: 3em;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .nav-header {
