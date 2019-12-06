@@ -5,11 +5,16 @@ html, body {
  }
 
 
-  a {
-        color: #6f717d;
-        text-decoration: none;
-        font-weight: bold;
-    }
+div {
+	max-width: 50em;
+	margin-right: 5%;
+}
+
+a {
+	color: #6f717d;
+	text-decoration: none;
+	font-weight: bold;
+}
 
 
 body {
@@ -18,17 +23,19 @@ body {
 }
 
 .page {
-  background-color: white;
+	max-width: 100%;
+	margin-right: 0px;
+	background-color: white;
 }
 
 hr {
 	display: block;
 	border: 2px solid grey;
-
+	max-width: 50em;
 	margin-top: -3em;
 	margin-bottom: 3em;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 0%;
+	margin-right: 5%;
 }
 
 .nav-header {
